@@ -1,0 +1,50 @@
+# TuneOptions
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**AppletZeroCopyForwarding** | **string** |  | [optional] [default to null]
+**CompMaxlevel** | **int32** |  | [optional] [default to null]
+**DisableZeroCopyForwarding** | **bool** |  | [optional] [default to null]
+**EventsMaxEventsAtOnce** | **int32** |  | [optional] [default to null]
+**FailAlloc** | **bool** |  | [optional] [default to null]
+**FdEdgeTriggered** | **string** |  | [optional] [default to null]
+**H1ZeroCopyFwdRecv** | **string** |  | [optional] [default to null]
+**H1ZeroCopyFwdSend** | **string** |  | [optional] [default to null]
+**H2BeGlitchesThreshold** | **int32** |  | [optional] [default to null]
+**H2BeInitialWindowSize** | **int32** |  | [optional] [default to null]
+**H2BeMaxConcurrentStreams** | **int32** |  | [optional] [default to null]
+**H2FeGlitchesThreshold** | **int32** |  | [optional] [default to null]
+**H2FeInitialWindowSize** | **int32** |  | [optional] [default to null]
+**H2FeMaxConcurrentStreams** | **int32** |  | [optional] [default to null]
+**H2FeMaxTotalStreams** | **int32** |  | [optional] [default to null]
+**H2HeaderTableSize** | **int32** |  | [optional] [default to null]
+**H2InitialWindowSize** | **int32** |  | [optional] [default to null]
+**H2MaxConcurrentStreams** | **int32** |  | [optional] [default to null]
+**H2MaxFrameSize** | **int32** |  | [optional] [default to null]
+**H2ZeroCopyFwdSend** | **string** |  | [optional] [default to null]
+**HttpCookielen** | **int32** |  | [optional] [default to null]
+**HttpLogurilen** | **int32** |  | [optional] [default to null]
+**HttpMaxhdr** | **int32** |  | [optional] [default to null]
+**IdlePoolShared** | **string** |  | [optional] [default to null]
+**Idletimer** | **int32** |  | [optional] [default to null]
+**ListenerDefaultShards** | **string** |  | [optional] [default to null]
+**ListenerMultiQueue** | **string** |  | [optional] [default to null]
+**MaxChecksPerThread** | **int32** |  | [optional] [default to null]
+**Maxaccept** | **int32** |  | [optional] [default to null]
+**Maxpollevents** | **int32** |  | [optional] [default to null]
+**Maxrewrite** | **int32** |  | [optional] [default to null]
+**MemoryHotSize** | **int32** |  | [optional] [default to null]
+**PatternCacheSize** | **int32** |  | [optional] [default to null]
+**PeersMaxUpdatesAtOnce** | **int32** |  | [optional] [default to null]
+**PoolHighFdRatio** | **int32** |  | [optional] [default to null]
+**PoolLowFdRatio** | **int32** |  | [optional] [default to null]
+**PtZeroCopyForwarding** | **string** |  | [optional] [default to null]
+**RingQueues** | **int32** |  | [optional] [default to null]
+**RunqueueDepth** | **int32** |  | [optional] [default to null]
+**SchedLowLatency** | **string** |  | [optional] [default to null]
+**StickCounters** | **int32** |  | [optional] [default to null]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
